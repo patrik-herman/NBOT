@@ -167,6 +167,8 @@ var onload = function () {
 				$('#ntb').val('');
 			})
 		));
+		
+		
 
 		setupWS();
 	} else {
